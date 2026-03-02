@@ -1,4 +1,4 @@
-//Looing Lab
+//Looping Lab
 
 function writeCards(names, event) {//returns an array of thank you messages for each name provided to the function
   let message = [];
