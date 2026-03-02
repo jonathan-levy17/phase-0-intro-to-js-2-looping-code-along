@@ -11,7 +11,6 @@ function writeCards(names, event) {//returns an array of thank you messages for 
 function countDown(number) {//invokes console.log once for each number, counting down from the number provided to zero
     while (number >= 0) {
         console.log(number);
-        debugger;
         number--;
     }
 }
